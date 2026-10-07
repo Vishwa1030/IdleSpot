@@ -1,4 +1,4 @@
-# ⚡ IdleSpot — AI-Based Forgotten Device Detection System
+# IdleSpot AI
 
 > **Detect it before it gets forgotten.**
 
@@ -113,5 +113,6 @@ forgotten
 where:
 
 0 → Normal
+
 1 → Possibly Forgotten
 
