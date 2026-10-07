@@ -1,0 +1,42 @@
+[
+    {
+        "device_id": "AC-001",
+        "device": "AC",
+        "room": "Lab A",
+        "power": "ON",
+        "occupancy": 0,
+        "typical_shutdown": "18:00"
+    },
+    {
+        "device_id": "PROJECTOR-001",
+        "device": "Projector",
+        "room": "Lab B",
+        "power": "OFF",
+        "occupancy": 0,
+        "typical_shutdown": "18:00"
+    },
+    {
+        "device_id": "PC-001",
+        "device": "PC",
+        "room": "Lab C",
+        "power": "ON",
+        "occupancy": 0,
+        "typical_shutdown": "18:00"
+    },
+    {
+        "device_id": "MONITOR-001",
+        "device": "Monitor",
+        "room": "Lab C",
+        "power": "ON",
+        "occupancy": 12,
+        "typical_shutdown": "18:00"
+    },
+    {
+        "device_id": "CHARGER-001",
+        "device": "Laptop Charger",
+        "room": "Meeting Room",
+        "power": "ON",
+        "occupancy": 0,
+        "typical_shutdown": "18:00"
+    }
+]
