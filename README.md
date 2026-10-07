@@ -293,6 +293,7 @@ F1 =
 The confusion matrix contains four prediction categories:
 
                     Predicted
+                    
                  Normal   Forgotten
 
 Actual Normal      TN         FP
