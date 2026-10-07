@@ -116,3 +116,52 @@ where:
 
 1 → Possibly Forgotten
 
+## Example Prediction
+
+# Suppose:
+
+Device        : Projector
+Room          : Lab B
+Power         : ON
+Occupancy     : 0
+Shutdown Time : 18:00
+Current Time  : 19:30
+
+# The system calculates:
+
+room_occupancy      = 0
+device_active       = 1
+hours_past_shutdown = 1.5
+
+These values are passed to the Random Forest model.
+
+## Example:
+
+ML Risk: 91.4%
+
+Prediction:
+🚨 POSSIBLY FORGOTTEN
+
+The dashboard then displays an alert.
+
+## Technologies Used
+# Programming
+Python
+# Machine Learning
+Scikit-learn
+Random Forest Classifier
+Classification Metrics
+# Data Processing
+Pandas
+NumPy
+# Application
+Streamlit
+# Model Storage
+Joblib
+# Telemetry
+JSON
+# Visualization
+Streamlit Metrics
+Streamlit DataFrame
+Feature Importance Visualization
+Model Evaluation Visualization
