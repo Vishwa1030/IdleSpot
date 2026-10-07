@@ -203,6 +203,8 @@ The application opens in the browser.
 
 The dashboard provides an overview of monitored devices.
 
+# Sample Dashboard Output
+
 <img width="1897" height="866" alt="image" src="https://github.com/user-attachments/assets/e151c1c7-8e3c-41df-9d4f-2ae2c19f903f" />
 
 ## Live Monitoring
@@ -211,6 +213,7 @@ IdleSpot provides an Automatic Live Monitoring mode.
 
 The application repeatedly reads:
 
+## Sample Live Monitoring Output
 <img width="1892" height="867" alt="image" src="https://github.com/user-attachments/assets/241f5d54-8a3b-44fc-982f-13e58c6a1bda" />
 
 ## Manual Device Prediction
@@ -247,7 +250,7 @@ And:
 Recommended action:
 Check or switch OFF the device.
 
-## sample output 
+## Sample Manual Device Prediction Output
 
 <img width="1897" height="855" alt="image" src="https://github.com/user-attachments/assets/0575be88-8714-4c98-9bf4-7bef2dd1ec88" />
 
@@ -308,7 +311,7 @@ FN = Forgotten device incorrectly missed
 
 A heatmap can be used to visualize the confusion matrix.
 
-## sample output
+## Sample Model Evaluation Output
 
 <img width="1905" height="840" alt="image" src="https://github.com/user-attachments/assets/6cdaeac8-0f2a-4590-8dfc-922d3d544a8b" />
 
