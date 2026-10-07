@@ -1,4 +1,4 @@
-# ⚡ IdleSpot AI
+# IdleSpot AI
 
 ### Real-Time Forgotten Device Detection Using Machine Learning
 
@@ -14,7 +14,7 @@ A Random Forest classifier predicts whether an active device is potentially forg
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - Real-time device monitoring
 - Random Forest ML prediction
@@ -33,7 +33,7 @@ A Random Forest classifier predicts whether an active device is potentially forg
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ```text
 Device Telemetry
