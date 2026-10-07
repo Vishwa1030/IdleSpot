@@ -1,4 +1,4 @@
-# IdleSpot AI
+# IdleSpot Enterprise
 
 > **Detect it before it gets forgotten.**
 
