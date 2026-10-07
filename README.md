@@ -294,11 +294,11 @@ The confusion matrix contains four prediction categories:
 
                     Predicted
                     
-                 Normal   Forgotten
+                               Normal   Forgotten
 
-Actual Normal      TN         FP
+              Actual Normal       TN         FP
 
-Actual Forgotten   FN         TP
+              Actual Forgotten    FN         TP
 
 Where:
 
